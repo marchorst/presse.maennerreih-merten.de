@@ -1,0 +1,140 @@
+---
+---
+$container-max-widths: (sm: 540px,
+    md: 720px,
+    lg: 960px,
+    xl: 1140px,
+    xxl: 1170px);
+$blue  : #337ab7;
+$indigo: #6610f2 !default;
+$purple: #6f42c1 !default;
+$pink  : #d63384 !default;
+$red   : #dc3545 !default;
+$orange: #fd7e14 !default;
+$yellow: #ffc107 !default;
+$green : #198754 !default;
+$teal  : #20c997 !default;
+$cyan  : #0dcaf0 !default;
+
+@import "bootstrap/bootstrap";
+.printonly {
+    display: none;
+}
+@media print {
+    .notprint {
+        display: none;
+    }
+    .printonly {
+        display: block;
+    }
+    .footer {
+        display: none;
+    }
+}
+
+body {
+    color    : #5B5B5B;
+    font-size: 11pt
+    
+}
+
+a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+.round {
+    border-radius: 1000px;
+    width        : 100%;
+    height       : auto;
+    border-radius: 1000px;
+    width        : 100%;
+    height       : auto;
+}
+
+.fa_wrap,
+.badge,
+.skill {
+    text-align: center
+}
+
+.fa_wrap {
+    margin-top   : 15px;
+    margin-bottom: 15px;
+    a{
+        margin: 5px;
+        img {
+            width: 35px;
+            path {
+                fill: #337ab7
+            }
+        }
+    }
+}
+
+@media(max-width:768px) {
+    .middle {
+        margin-bottom: 20px;
+        margin-top   : 20px
+    }
+
+    img {
+        max-width: 200px;
+        margin   : auto
+    }
+}
+
+body {
+    color    : #5B5B5B;
+    font-size: 11pt;
+    &#start {
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+}
+
+
+
+.bg-prime {
+    background: $blue;
+}
+
+.bg-framework {
+    background: #9D16D0
+}
+
+.bg-cms {
+    background: #0D8A3C
+}
+
+.bg-prolang {
+    background: #D85428
+}
+
+.bg-tech {
+    background: #839E03
+}
+
+.badge {
+    display       : inline;
+    padding       : .2em .6em .3em;
+    font-size     : 75%;
+    font-weight   : 700;
+    line-height   : 1;
+    color         : #fff;
+    white-space   : nowrap;
+    vertical-align: baseline;
+    border-radius : .25em;
+    line-height   : 22px;
+    font-size     : 11px;
+    font-family   : sans-serif;
+    text-transform: uppercase;
+}
+
+.center {
+    text-align: center;
+    margin: 15px;
+}
