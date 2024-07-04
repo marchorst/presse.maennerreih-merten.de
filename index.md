@@ -6,6 +6,7 @@ title: Presse Informationen
 Liebe Presse, wir haben Ihnen hier bereits einige Informationen zusammengestellt.
 ## 39. Lehmkuhlefest
 Samstag, 20.07.2024 / Sonntag, 21.07.2024
+
 Seit 1984 veranstaltet die Männer-Reih das beliebte Lehmkuhlefest in Merten. Mit großem Einsatz der Vereinsmitglieder und deren Frauen/Partnerinnen wird dieses Fest jedes Jahr am 3. Wochenende im Juli organisiert. Es ist eine wunderbare Gelegenheit für die Mertener Bürger und Neubürger, sich kennenzulernen und gemeinsam zu feiern.
 
 Das Lehmkuhlefest hat nicht nur eine lange Tradition, sondern auch einen wohltätigen Zweck. Der Erlös des Festes wurde im Laufe der Jahre kontinuierlich erhöht und hat bereits über 25.000 Euro für gemeinnützige Zwecke in Merten erbracht. Dank dieser Spenden konnten verschiedene Projekte realisiert werden, darunter die Renovierung des 100 Jahre alten Wegkreuzes am Rüttersweg, die Aufstellung von Ruhebänken im Mertener Wald und Umland sowie die Unterstützung des jährlichen Seniorentages. Auch Kindergarten, Schule und die Krankenhilfe "Sankt Martin" wurden auf die Spendenliste gesetzt.
