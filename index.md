@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: Presse Informationen
@@ -47,4 +46,3 @@ Der Name Lehmkuhlefest stammt aus dem ursprünglichen Ort des Festes, die Lehmku
 Auf unserer Webseite finden Sie weitere Informationen über den Verein und seine Geschichte
 
 **[https://www.maennerreih-merten.de/](https://www.maennerreih-merten.de/)**
-```
