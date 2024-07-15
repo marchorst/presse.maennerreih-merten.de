@@ -25,10 +25,10 @@ Das Lehmkuhlefest ist ein besonderer Anlass, bei dem gemeinschaftlicher Zusammen
 
 ## Junggesellenverein Männer-Reih „Einigkeit 1852“ Merten-Heide e.V.
 
-1. Vorsitzender: **Marc Horst**, geboren 1992, wohnhaft in Sechtem  
-2. Vorsitzender: **Gregor Büttgen**, geboren 1960, wohnhaft in Merten  
-1. Kassierer: **Maximilian Zeidmanis**, geboren 1986, wohnhaft in Erp  
-1. Schriftführer: **Wolfgang Horst**, geboren 1968, wohnhaft in Rösberg  
+- 1. Vorsitzender: **Marc Horst**, geboren 1992, wohnhaft in Sechtem  
+- 2. Vorsitzender: **Gregor Büttgen**, geboren 1960, wohnhaft in Merten  
+- 1. Kassierer: **Maximilian Zeidmanis**, geboren 1986, wohnhaft in Erp  
+- 1. Schriftführer: **Wolfgang Horst**, geboren 1968, wohnhaft in Rösberg  
 
 Im Jahr 1852 wurde unter dem Namen „Einigkeit Merten“ ein Verein gegründet, der den Zweck verfolgte, die Jünglinge von Merten, Merten-Heide und Trippelsdorf „in Einigkeit und Freundschaft zu verbinden, die gesellschaftliche Unterhaltung anzustreben und an allen öffentlichen, patriotischen und kirchlichen Festen teilzunehmen“. So lautet der erste Paragraph der Gründungsurkunde, die Freiherr von Weichs als damaliger Bürgermeister unterzeichnete.
 
